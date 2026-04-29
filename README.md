@@ -1,4 +1,4 @@
-# Hi there, I'm Shubam Tiwari! 👋
+# Hi there, I'm Shubam Nath Tiwari! 👋
 
 🎓 Final Year B.Tech Computer Science Student  
 🤖 Passionate about Machine Learning & Data Science  
