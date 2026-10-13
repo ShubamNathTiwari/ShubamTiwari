@@ -1,6 +1,6 @@
 # Hi there, I'm Shubam Nath Tiwari! 👋
 
-🎓 Final Year B.Tech Computer Science Student  
+🎓  B.Tech Computer Science graduate Student  
 🤖 Passionate about Machine Learning & Data Science  
 🌍 Based in India | Open to Internships & Job Opportunities
 
